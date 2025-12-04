@@ -8,7 +8,7 @@
 
 ## 在线演示
 
-🌐 访问地址：[https://yourusername.github.io/product-design-methodology-generator](https://yourusername.github.io/product-design-methodology-generator)
+🌐 访问地址：[https://flyzhenghao.github.io/product-design-methodology-generator](https://flyzhenghao.github.io/product-design-methodology-generator)
 
 ## 功能特色
 
@@ -61,7 +61,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/product-design-methodology-generator.git
+git clone https://github.com/flyzhenghao/product-design-methodology-generator.git
 
 # 进入目录
 cd product-design-methodology-generator
@@ -159,7 +159,7 @@ A: 可以。生成的内容归你所有，可用于任何商业目的。
 
 ## 作者
 
-👨‍💻 Created by [Your Name]
+👨‍💻 Created by Hao Zheng
 
 ## 版本历史
 
@@ -170,4 +170,4 @@ A: 可以。生成的内容归你所有，可用于任何商业目的。
 **当前版本**: 1.0  
 **更新日期**: 2025-12-04
 
-如有问题或建议，欢迎提交 [Issue](https://github.com/yourusername/product-design-methodology-generator/issues)
+如有问题或建议，欢迎提交 [Issue](https://github.com/flyzhenghao/product-design-methodology-generator/issues)
